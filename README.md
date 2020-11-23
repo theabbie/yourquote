@@ -1,0 +1,2 @@
+# yourquote
+Unofficial yourquote API
