@@ -1,0 +1,27 @@
+{
+  "name": "yourquote",
+  "version": "1.0.0",
+  "description": "Unofficial yourquote API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"working\""
+  },
+  "funding": "https://theabbie.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/yourquote.git"
+  },
+  "keywords": [
+    "theabbie",
+    "yourquote"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/yourquote/issues"
+  },
+  "homepage": "https://github.com/theabbie/yourquote#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
