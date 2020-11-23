@@ -1,6 +1,6 @@
 {
   "name": "yourquote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial yourquote API",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/theabbie/yourquote#readme",
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.21.0",
+    "form-data": "^3.0.0"
   }
 }

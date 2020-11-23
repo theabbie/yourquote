@@ -37,7 +37,7 @@ You can contact me on social media, Everything about me can be found [here](http
 
 ## Credits
 
-* [YourQuote](https://yourquote.com) For making an excellent platform
+* [YourQuote](https://yourquote.in) For making an excellent platform
 
 ## Contact
 
